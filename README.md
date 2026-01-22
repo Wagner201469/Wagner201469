@@ -15,4 +15,4 @@
 
 ---
 📫 **Como me encontrar:**
-[Link do seu LinkedIn aqui]
+wagner201469@gmail.com
