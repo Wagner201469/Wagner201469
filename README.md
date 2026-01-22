@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Wagner! 👋
 
-<!--
-**Wagner201469/Wagner201469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mim
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+- 🚀 Atualmente focado em aprender o ecossistema **Java** e boas práticas de desenvolvimento.
+- 🎯 Em busca da minha primeira oportunidade como **Estagiário de TI**.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias e Ferramentas
+- **Linguagem:** Java (Básico/Intermediário).
+- **Ferramentas:** Git, GitHub, VS Code.
+- **Conceitos:** Lógica de Programação, POO, Estruturas de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Meus Projetos em Destaque
+- [Sistema de Cadastro de Alunos](https://github.com/Wagner201469/sistema-cadastro-alunos-java) - CRUD completo em Java utilizando Programação Orientada a Objetos.
+
+---
+📫 **Como me encontrar:**
+[Link do seu LinkedIn aqui]
